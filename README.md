@@ -6,8 +6,7 @@ Various games that I had created using Game Maker throughout highschool. All gra
   - #### Description:
     - A number generator that selects a random number from 0-100. This program was created for my 9th Grade French class in order for us to learn numbers in French. We used the program to play Bingo.
   - #### Screenshots:
-  
-  - #### Takeaways:
+  - #### Takeaways:
     - Understanding of Game Maker Language and concepts including:
       - Sprites
       - Objects
